@@ -1,8 +1,7 @@
 # Ex03-Linux IPC - Pipes
 
-### Name: P.Sasinthar
-### Register No: 212223230199
-
+### Name: kamalesh v
+### Register No: 212222240042
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
 
